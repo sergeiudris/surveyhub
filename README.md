@@ -19,4 +19,5 @@
 - stackoverflow/reddit -> posts
 - twitter -> tweets
 - twitch  -> streams
+- amazon -> product
 - surveyhub -> surveys
