@@ -2,7 +2,7 @@
 
 - github but for surveys
 - users can
-  - create user/survey
+  - create user.survey
     - text answers (can be +1 like post answers)
     - vote (can be commented and comments can be +1 so you get both vote distribution and most popular comment for an option)
   - set access
