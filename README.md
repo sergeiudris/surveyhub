@@ -19,5 +19,5 @@
 - stackoverflow/reddit -> posts
 - twitter -> tweets
 - twitch  -> streams
-- amazon -> product
+- amazon -> products
 - surveyhub -> surveys
