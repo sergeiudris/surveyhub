@@ -12,6 +12,7 @@
     - for anyone with the link
   - browse top/recent etc. surveys
   - set continueous surveys (periodic snapshots)
+- reddit for surveys (users can rate surveys)
   
 ## rationale
 
