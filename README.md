@@ -1,7 +1,5 @@
 # surveyhub
 
-[archived]
-
 - github but for surveys
 - users can
   - create user.survey
